@@ -57,6 +57,27 @@
 %
 
 %----------------------------------------
+% basarim abstract environment
+%----------------------------------------
+\newenvironment{abstract_basarim}[7] %{date}{track}{room}{title}{author}{affiliation}{type}
+{%\filbreak %avoid page break
+
+        \clearpage\pagestyle{fancy}
+        \fancyhf{}
+        \lhead{#1}
+        \chead{#2}
+        \rhead{#3}
+        \cfoot{Sabancı Üniversitesi, Altunizade Dijital Kampüs, Istanbul}
+        \rfoot{\thepage}
+        
+	{\Large \bfseries #4}
+	
+	{\bfseries \itshape #5} \newline\newline {\noindent #6}
+       	\textcolor{mygray}{#7}
+        
+}
+{\clearpage\pagestyle{plain}}
+%----------------------------------------
 % online abstract environment
 %----------------------------------------
 \newenvironment{abstract_online}[4] %{title}{author}{affiliation}{type}

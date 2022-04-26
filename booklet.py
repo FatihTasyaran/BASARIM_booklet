@@ -139,6 +139,8 @@ def txt2tex(file_name, verbose=False) :
              final text for the .tex files
     """
 
+    verbose = True
+
     print file_name # format: t_name.txt or p_name.txt
 
     file_type = file_name[0] # either talk 't' or poster 'p'
@@ -154,6 +156,9 @@ def txt2tex(file_name, verbose=False) :
         data = [i[0] for i in reader]
 
     # EXTRACT INDICES
+    idx_date = data.index("DATE")
+    idx_track = data.index("TRACK")
+    idx_room = data.index("ROOM")
     idx_title = data.index("TITLE")
     idx_author = data.index("AUTHOR")
     idx_affshort = data.index("AFFSHORT")
@@ -167,8 +172,13 @@ def txt2tex(file_name, verbose=False) :
 
     n_aff = len(idcs_aff)
     data = np.array(data)
-
+    #print('data:', data)
     # EXTRACT DATA AS TEXT
+    ####Added for basarim
+    date = data[idx_date+1]
+    track = data[idx_track+1]
+    room = data[idx_room+1]
+    ###Added for basarim
     title = data[idx_title+1] # title 
     if title[-1] == '.':
         title = title[:-1]
@@ -253,14 +263,15 @@ def txt2tex(file_name, verbose=False) :
         print authors
         print affs_auth
 
-    authors = format_authors(authors)
+    #authors = format_authors(authors) ##Giving full name instead of abbreviation
 
     # FORMAT DATA INTO INPUT TEXT FOR LATEX
     auths_final = ''
     for i in range(n_auth):
         if i == i_speaker:
             if n_auth > 1: # if more than one author, underline speaker
-                auths_final += r'\underline{' + authors[i] + r'}'
+                auths_final += authors[i] ##Removing Underline
+                #auths_final += r'\underline{' + authors[i] + r'}'
             elif n_auth == 1:
                 auths_final += authors[i]
         else: 
@@ -342,6 +353,26 @@ def txt2tex(file_name, verbose=False) :
         print online
         
         print auths_final
+
+    basarim = r"""
+    \begin{{abstract_basarim}}
+    {{{}}}
+    {{{}}}
+    {{{}}}
+    {{{}}}
+    {{%
+    {}}}
+    {{%
+    {}}}
+    {{%
+    {}}}
+    {}
+    {}
+    \end{{abstract_basarim}}
+    """ .format(date, track, room, title, auths_final, tag, affs_final, abstract, refs_final)
+
+    with open(tex_dir + file_type + 'b_' + file_id + '.tex', "w") as text_file:
+        text_file.write(basarim)
 
     return online, printed
     

@@ -1,7 +1,13 @@
+DATE
+XXX
+TRACK
+YYY
+ROOM
+ZZZ
 TITLE
 Static and Dynamic Modeling of N-Methyl-Indole (N=1-6) in Water at the B3LYP/AMBER Level Using the COBRAMM Interface
 AUTHOR
-Caglar KARACA {1} *
+Caglar KARACA {1} 
 Fehmi BARDAK {2}
 Etem KOSE {3}
 Ahmet ATAC {2}
