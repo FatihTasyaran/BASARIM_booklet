@@ -4,6 +4,7 @@
 *.toc
 *.gz
 *.pdf
+*~
 !main.pdf
 !booklet*pdf
 !cover.pdf
