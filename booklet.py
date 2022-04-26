@@ -147,6 +147,10 @@ def txt2tex(file_name, verbose=False) :
     # READ .TXT FILE
     with open(txt_dir + file_name, 'rbU') as inputfile:
         reader = csv.reader(inputfile, delimiter='\n')
+        #print('reader: ', reader)
+        #if(file_name.find('p2') != -1):
+            #for head in reader:
+                #print(head)
         data = [i[0] for i in reader]
 
     # EXTRACT INDICES
