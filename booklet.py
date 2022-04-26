@@ -289,7 +289,7 @@ def txt2tex(file_name, verbose=False) :
         refs_final = ''
     else:
         refs_final = r"""
-        \textbf{{References}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
+        \textbf{{Keywords}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
 
     if abs_type == ' ':
         talk_type = ''
