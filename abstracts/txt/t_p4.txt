@@ -1,0 +1,19 @@
+DATE
+Friday 10:45-11:00
+TRACK
+High Performance Computing
+ROOM
+G039
+TITLE
+Kullanılan Çekirdek Sayısının Kapsama Alanı Haritası Çıkarılma Performansına Etkisi
+AUTHOR
+Uğur ERBAŞ
+Mehmet Barış TABAKCIOĞLU
+AFFSHORT
+Bursa Teknik Üniversitesi
+AFF
+Bursa Teknik Üniversitesi Elektrik-Elektronik Mühendisliği - Bursa, Türkiye
+ABS
+Son zamanlarda iletişim teknolojisinin gelişmesi ve nüfusun artmasıyla birlikte baz istasyonlarına olan ihtiyaç da artmıştır. Bunun yanında yeni gelişen 5G teknolojisinde çok sayıda baz istasyonuna ihtiyaç duyulacağı tahmin edilmektedir. Bu çalışmada küçük bir bölgenin 3 boyutlu dijital verileri kullanılmıştır. İlk olarak MATLAB programında 3 boyutlu yeryüzü haritası çıkarılmıştır. Ardından iki farklı nokta seçilmiş ve kısa çizgilerle 2 boyutlu haritalar oluşturulmuştur. Baz istasyonlarının doğru pozisyonlara yerleştirilebilmesi için elektrik alanlarını doğru tahmin etmek ve kapsama alanı belirlemek çok önemlidir. Bu nedenle ışın izleme algoritması ile yansıyan, direkt ve kırınan tüm ışınlar belirlenmiştir. Kapsama alanlarının belirlenebilmesi için elektrik alanlarının hesaplanması gerekmektedir. Bu çalışmada Uniform Kırınım Teorisi (UKT) ve Geometrik Optik (GO) modeliyle elektrik alanlar hesaplanmış; bir merkez noktası seçilmiş, 3000 metre için elektrik alanları hesaplanmış ve kapsama alanı haritası çizilmiştir. Kapsama alanı haritalarına bakıldığında girişimlerden kaynaklı dalgalanmaların olduğu ve merkez noktadan uzaklaştıkça elektrik alanlarının azaldığı görülmektedir. Yüksek başarımlı hesaplama teknikleri kullanılarak kapsama alanı haritası oluşturmak için gerekli çözüm süreleri çekirdek sayısına bağlı olarak karşılaştırılmıştır. Genel olarak kullanılan çekirdek sayısı arttıkça çözüm süresi azalmıştır.
+REFS
+Baz istasyonu konuşlandırması, Kapsama alanı haritası, Işın izleme tekniği, Geometrik optik, UKT.

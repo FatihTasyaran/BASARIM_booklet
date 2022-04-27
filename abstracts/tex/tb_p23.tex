@@ -1,0 +1,17 @@
+
+    \begin{abstract_basarim}
+    {Thursday 13:30-13:45}
+    {High Performance Computing}
+    {G039}
+    {Implementations of the Needleman-Wunsch Algorithm for GPU Architectures}
+    {%
+    Furkan KURT, Deniz Turgay ALTİLAR, Ayşe Yılmazer METİN}
+    {%
+    }
+    {%
+    Istanbul Technical University Department of Computer Engineering - Istanbul, Turkey}
+    Abstract-Similarity search is a fundamental yet timeconsuming algorithm in bioinformatics. Many dynamic programming-based and heuristic algorithms are proposed to solve alignment problems. The Needleman-Wunsch algorithm is a well-known dynamic programming-based algorithm for global sequence alignments. The algorithm has $O\left(n^{2}\right)$ time and space complexity. The quadratic complexity limits the use of the algorithm with relatively smaller sequences. Various parallel and distributed methods were proposed to overcome the quadratic complexity of the algorithm.\newline In this paper, we describe a graphics processing unit(GPU) kernel to parallelize and reduce the execution time of the algorithm. We propose a new data partitioning method representation to increase the data transfer throughput between the GPU and the host. We implemented the serial approach of the algorithm and various parallel CUDA methods. We also used CUDA Cooperative Groups for the first time in Needleman-Wunsch algorithm parallelization. The evaluation shows that the new implementation is increased the performance of the algorithm 60 times for similarity score calculations, and 17 times for the alignment calculations. 
+    
+        \textbf{Keywords} \newline{}parallel computing, sequence alignment, bioinformatics
+    \end{abstract_basarim}
+    

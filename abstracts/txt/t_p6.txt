@@ -1,0 +1,19 @@
+DATE
+Thursday 13:45-14:00
+TRACK
+High Performance Computing
+ROOM
+G039
+TITLE
+Performance Evaluation of CUDA Optimizations for Convolution Operations
+AUTHOR
+Burak TOPÇU
+Işıl Öz
+AFFSHORT
+İzmir Institute of Technology
+AFF
+İzmir Institute of Technology Computer Engineering Department - İzmir, Turkey
+ABS
+Convolution operations are important for image processinge and deep learning applications. With a large amount of data and independent computations, the execution time of convolutions can be reduced substantially by GPU acceleration. CUDA programming model offers architecture-aware performance optimizations for programs running on GPL devices by employing software techniques. In this work, we perform a set of CUDA optimizations for multidimensional convolution operations implemented in the Polybench benchmark suite. Specifically, we utilize constant memory, shared memory, CUDA streams, and their combinations. We systematically apply the optimizations and present the results by comparing both execution time and resource utilization. Our results demonstrate that combined optimizations achieve up to $1.6$ times speedup compared to the baseline implementations.
+REFS
+Convolution, CUDA, Optimization

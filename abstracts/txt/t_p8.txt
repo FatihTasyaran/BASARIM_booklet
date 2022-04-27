@@ -1,0 +1,17 @@
+DATE
+Friday 9:00-9:15
+TRACK
+Modeling and Simulation
+ROOM
+G039
+TITLE
+Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
+AUTHOR
+H. Tugrul ERDOĞAN
+Adnan ÖZSOY
+AFFSHORT
+Hacettepe Üniversitesi
+AFF
+Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü - Ankara, Türkiye
+ABS
+Halihazırda iletişim teknolojilerini yaygin olarak kullanmaktayız. Yakın gelecekte ise 5G teknolojileri ile iletişim teknolojilerinin sunacağı yeni kapasite ve olanaklar ile de daha farkl alanlarda da telekomünikasyon teknolojilerinin kullanıldığını görmek hiç de şaşırtıcı olmaz. 5G teknolojilerinin ise; sektördeki büyük beklentilere cevap olarak, yenilikçi tasarım ve altyapı farklılıları ile konumlanacă̆ı şimdiden görülmektedir. Bu yenilikçi tasarım ve altyapı farklılıkları, var olan problemleri çözerken aslında henüz karşlaşmadığımız yeni problemleri de bugüne taşıyacaktır. Bu çalışma ile 5G altyaptsı ile potansiyel problemlerden birisi olarak kendisini göstermeye başlayan baz istasyonu kaynak paylaşım problemini yapay zeka yöntemleri ile çözmeye çalıstık.
