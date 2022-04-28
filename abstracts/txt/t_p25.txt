@@ -1,25 +1,19 @@
 DATE
-Wednesday 13:00-13:15
+Thursday 15:45-16:00
 TRACK
-Modeling and Simulation
+High Performance Computing
 ROOM
 G039
 TITLE
-Static and Dynamic Modeling of N-Methyl-Indole \newline\noindent (N=1-6) in Water at the B3LYP/AMBER Level Using the COBRAMM Interface
+SIMD Instructions for Ethereum Virtual Machine
 AUTHOR
-Caglar KARACA {1} 
-Fehmi BARDAK {2}
-Etem KOSE {3}
-Ahmet ATAC {2}
+Aykut Bozkurt
+Can Özturan
 AFFSHORT
-Manisa Celal Bayar University
+25
 AFF
-Manisa Celal Bayar University Applied Research Center - Manisa, Turkey
-AFF
-Manisa Celal Bayar University Department of Physics - Manisa, Turkey
-AFF
-Manisa Celal Bayar University Technical Sciences Vocational School - Manisa, Turkey
+25
 ABS
-Computational dynamic emission spectroscopy in rigid medium solvents is a highly difficult technique. In recent years, technological improvement makes realistic models capable of experimental observables is possible. In this study, we have improved a successful simulation strategy in excitation and emission energies using hybrid models. The selected high layer target molecules and low and mobile layer water molecules are optimized with together. The hybrid QM/MM level is a powerful tool to efficiently is described the interactions of a molecule with its solvent medium. In this context, we simulate static and dynamic excited and emission spectra using COBRAMM interface protocol at the B3LYP/AMBER for rigid solvent models, TIP3P models are used within the mobile MM layer up to 50 nanometers radius away, for methyl derivatives of indole to a room-temperature. The QM/MM optimization calculations give us reliable structures both ground and excited states. Energy fluctuation of systems involves four states starting on the S0-S3, computations have been carried out by the same level for 150 femtoseconds. These calculated processes in ultrafast time scale have been explained how the evolution of excited and emission spectra when solvent molecules are movable. S0 and S1 geometry optimization of molecule in water droplet consisting of 500 TIP3P water are computed B3LYP/6-311++G(d,p) basis set and all low and mobile layer data was obtained Amber GAFF force field. S1 state geometry is converged approximately within 120 optimization cycles while the S0 optimization cycle takes longer time because of librational movements of water. Because this librational motion causes chaos at the RMS/D value, the number of mobile molecules has been reduced from the optimization steps. The energy difference between the first excited and ground state has a fluctuating character. The distribution of these fluctuations has been analyzed to create Fluctuating Gap Distribution (FGD) which reveals the most appropriate excitation/emission wavelengths.
+Recently, Ethereum and its smart contracts have become very popular. Hence, there is an urgent need for higher transaction throughput on Ethereum blockchains. Ethereum Virtual Machine (EVM) is a Turing-complete computer which executes Ethereum bytecode-encoded instructions for smart contracts. Every instruction uses 256-bit wide stack items as input and output operands. They pop the required inputs from the stack and push the result onto it after an execution. A gas consumption cost is assigned to them relative to the complexity of the instruction as it prevents halting problem. Consumed gas multiplied by gas price is charged as transaction fee by the transaction sender to mitigate Denial of Service (DoS) attacks can be avoided. The current supported instruction set has some weaknesses. Firstly, transactions containing large sized vector operations require excessive amount of gas cost. Secondly, transaction throughput is limited because of no parallelism in execution. Therefore, we extend the EVM instruction set by Single Instruction Multiple Data (SIMD) operations in order to benefit from data-level parallelism based on Ethereum improvement proposal EIP-616. We show how EVM can benefit from SIMD instructions by lowering gas consumption and increasing transaction throughput.
 REFS
-QM/MM md, Absorption and Emission, Lineer Response Theory
+Computer Society, IEEE, ethereum, EVM

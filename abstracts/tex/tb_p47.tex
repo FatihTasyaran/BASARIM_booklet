@@ -1,17 +1,17 @@
 
     \begin{abstract_basarim}
-    {Wednesday 13:00-13:15}
-    {Modeling and Simulation}
+    {Friday 11:15-11:30}
+    {High Performance Computing}
     {G039}
-    {Static and Dynamic Modeling of N-Methyl-Indole \newline\noindent (N=1-6) in Water at the B3LYP/AMBER Level Using the COBRAMM Interface}
+    {COMDETECTIVE $^{+}$: An Inter-Thread Communication Analyzer for AMD Multicores}
     {%
-    Caglar KARACA$^{1}$, Fehmi BARDAK$^{2}$, Etem KOSE$^{3}$, Ahmet ATAC$^{2}$}
+    Muhammad Aditya SASONGKO$^{1}$, Milind CHABBI$^{2}$, Paul H. J. KELLY$^{3}$, Didem UNAT$^{1}$}
     {%
     }
     {%
-    $^1$ Manisa Celal Bayar University Applied Research Center - Manisa, Turkey\newline{}$^2$ Manisa Celal Bayar University Department of Physics - Manisa, Turkey\newline{}$^3$ Manisa Celal Bayar University Technical Sciences Vocational School - Manisa, Turkey}
-    Computational dynamic emission spectroscopy in rigid medium solvents is a highly difficult technique. In recent years, technological improvement makes realistic models capable of experimental observables is possible. In this study, we have improved a successful simulation strategy in excitation and emission energies using hybrid models. The selected high layer target molecules and low and mobile layer water molecules are optimized with together. The hybrid QM/MM level is a powerful tool to efficiently is described the interactions of a molecule with its solvent medium. In this context, we simulate static and dynamic excited and emission spectra using COBRAMM interface protocol at the B3LYP/AMBER for rigid solvent models, TIP3P models are used within the mobile MM layer up to 50 nanometers radius away, for methyl derivatives of indole to a room-temperature. The QM/MM optimization calculations give us reliable structures both ground and excited states. Energy fluctuation of systems involves four states starting on the S0-S3, computations have been carried out by the same level for 150 femtoseconds. These calculated processes in ultrafast time scale have been explained how the evolution of excited and emission spectra when solvent molecules are movable. S0 and S1 geometry optimization of molecule in water droplet consisting of 500 TIP3P water are computed B3LYP/6-311++G(d,p) basis set and all low and mobile layer data was obtained Amber GAFF force field. S1 state geometry is converged approximately within 120 optimization cycles while the S0 optimization cycle takes longer time because of librational movements of water. Because this librational motion causes chaos at the RMS/D value, the number of mobile molecules has been reduced from the optimization steps. The energy difference between the first excited and ground state has a fluctuating character. The distribution of these fluctuations has been analyzed to create Fluctuating Gap Distribution (FGD) which reveals the most appropriate excitation/emission wavelengths. 
+    $^1$ Koç University - İstanbul, Turkey\newline{}$^2$ Scalable Machines Research - California, USA\newline{}$^3$ Imperial College - London, UK}
+    Abstract-AMD Processors have become more widely used in recent years due to the high performance yet low power consumption of the Ryzen series. Along with the increasing popularity of this processor series, there is also a rising need for profiling tools that can identify performance bottlenecks with low overheads in these machines. One common source of performance bottlenecks in multithreaded programs running on multicore systems is inter-thread communication.\newline We propose ComDETECTIVE ${ }^{+}$, an inter-thread communication analyzer that leverages the existing hardware features in AMD processors to support low-overhead detection of communications. It employs the instruction-based sampling (IBS) facility available in current AMD CPU cores to sample memory accesses, and debug registers to intercept communications involving the sampled memory accesses. In addition to detecting communications, COMDETECTIVE ${ }^{+}$also differentiates the communications into true sharing and false sharing, and attributes the communications to their locations in source code. We perform an experimental study to evaluate the accuracy, time, and memory overheads of this tool. Our tool exhibits high accuracy while introducing $2.8 \times$ runtime and $1.92 \times$ memory overheads, which are much lower than the overheads of existing cycle-accurate simulators and code instrumentation-based tools. 
     
-        \textbf{Keywords} \newline{}QM/MM md, Absorption and Emission, Lineer Response Theory
+        \textbf{Keywords} \newline{}PMUs, performance analysis, multicore
     \end{abstract_basarim}
     
