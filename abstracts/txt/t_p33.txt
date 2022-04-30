@@ -1,9 +1,11 @@
 DATE
-Wednesday 11:30-11:45
+Çarşamba 11:30-11:45
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Serpil Y. Kuzu
 TITLE
 Study of Dilepton Spectrum with Machine Learning Approach at the LHC
 AUTHOR

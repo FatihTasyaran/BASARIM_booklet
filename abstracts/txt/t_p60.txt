@@ -1,9 +1,12 @@
 DATE
-Wednesday 14:30-14:45
+Çarşamba 14:30-14:45
 TRACK
-Machine Learning
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Şener Özönder
+H. Kübra Küçükkartal
 TITLE
 Yapay zeka ile hızlandırılmış nano-malzeme keşfi
 AUTHOR

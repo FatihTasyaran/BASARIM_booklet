@@ -1,14 +1,17 @@
 DATE
-Friday 10:00-10:15
+Cuma 10:00-10:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Mustafa Barış Çamlı
+İsmail Arı
 TITLE
 Sensitivity Analysis of Federated Learning over Decentralized Data and Communication Rounds
 AUTHOR
 Mustafa Barış ÇAMLI
-İsmail ARİ
+İsmail ARI
 AFFSHORT
 Ozyegin University
 AFF

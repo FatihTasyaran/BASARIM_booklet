@@ -1,9 +1,14 @@
 DATE
-Wednesday 14:15-14:30
+Çarşamba 14:15-14:30
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Gamze Atalmış
+Serkan Toros
+Nebi Yelegen
+Yüksel Kaplan
 TITLE
 Effect of Copper-Coated Storage Materials on Reaction Kinetics
 AUTHOR

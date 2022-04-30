@@ -1,9 +1,12 @@
 DATE
-Wednesday 13:45-14:00
+Çarşamba 13:45-14:00
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+İpek Güçlü
+Yeliz Gürdal
 TITLE
 Ab-initio MD Investigation of Co-based Planar Molecular Catalyst Immersed in Water: $\mathrm{H}_{2}$ Production Mechanism
 AUTHOR

@@ -1,9 +1,12 @@
 DATE
-Thursday 16:00-16:15
+Perşembe 16:00-16:15
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Buse Yılmaz
+Abdulkadir F. Yıldız
 TITLE
 A Graph Transformation Strategy for Optimizing SpTRSV
 AUTHOR

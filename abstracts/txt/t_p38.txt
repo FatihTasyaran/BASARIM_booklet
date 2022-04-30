@@ -1,15 +1,19 @@
 DATE
-Thursday 11:15-11:30
+Perşembe 11:15-11:30
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Yunus E. Karasu
+Tuğba Zaman
+Ayşe. G. Güngör
 TITLE
 RANS and LES of a Turbulent Non-Premixed Flame Using OpenFOAM
 AUTHOR
 Yunus Emre KARASU
-Tugba ZAMAN
-Ayse G. GUNGOR
+Tuğba ZAMAN
+Ayşe G. GÜNGÖR
 AFFSHORT
 İstanbul Technical University
 AFF

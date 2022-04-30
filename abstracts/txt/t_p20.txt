@@ -1,9 +1,13 @@
 DATE
-Friday 11:30-11:45
+Cuma 11:30-11:45
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Zuhal Altuntaş
+Sanem Arslan
+Betül Boz
 TITLE
 Approximate Execution of Critical Sections for Performance-Accuracy Tradeoff
 AUTHOR

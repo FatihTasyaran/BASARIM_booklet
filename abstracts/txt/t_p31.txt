@@ -1,9 +1,13 @@
 DATE
-Thursday 10:30-10:45
+Perşembe 10:30-10:45
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Arash Karshenass
+Özgür U. Baran
+Onur Ata
 TITLE
 A Simplified Methodology For Rotor-Stator Interaction Problems With An Upwind Linearized Harmonic Solver
 AUTHOR

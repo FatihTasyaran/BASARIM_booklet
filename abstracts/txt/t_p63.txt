@@ -1,9 +1,20 @@
 DATE
-Thursday 11:30-11:45
+Perşembe 11:30-11:45
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Yunus E. Karasu
+Tuğba Zaman
+Ayşe G. Güngör
+Dilay Güleryüz
+Emre Böncü
+Tahsin B. Kıymaz
+Mehmet Karaca
+Barış Yılmaz
+Christophe Allouis
+İskender Gökalp
 TITLE
 Kısmi Karışımlı bir Yanma Odası Tasarımında Girdap Etkilerinin İncelenmesi
 AUTHOR

@@ -1,9 +1,13 @@
 DATE
-Wednesday 15:45-16:00
+Çarşamba 15:45-16:00
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ertan Demiral
+Kıvanç Arslan
+Çağatay Şahin
 TITLE
 Aerodinamik Veritabanı Modellerinin Adaptif Deney Tasarım Yöntemi ile İyileştirilmesi ve Sürecin Hızlandırılması
 AUTHOR

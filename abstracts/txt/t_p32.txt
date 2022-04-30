@@ -1,14 +1,17 @@
 DATE
-Friday 11:00-11:15
+Cuma 11:00-11:15
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Sanem Arslan
+Osman Ünsal
 TITLE
 Efficient Thread-to-Core Mapping for Application-level Redundant Multithreading
 AUTHOR
 Sanem ARSLAN {1}
-Osman UNSAL {2}
+Osman ÜNSAL {2}
 AFFSHORT
 Marmara University
 AFF

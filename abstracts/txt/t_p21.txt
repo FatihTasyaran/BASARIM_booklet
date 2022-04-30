@@ -1,15 +1,19 @@
 DATE
-Friday 9:15-9:30
+Cuma 9:15-9:30
 TRACK
-Machine Learning
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Alparslan Fişne
+Faruk Yavuz
+Adnan Özsoy
 TITLE
 Makine Öğrenmesi tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
 AUTHOR
 Alparslan FİŞNE {1}
 Faruk YAVUZ {1}
-Adnan OZSOY {2}
+Adnan ÖZSOY {2}
 AFFSHORT
 ASELSAN A.Ş.
 AFF

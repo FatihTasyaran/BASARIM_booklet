@@ -1,9 +1,13 @@
 DATE
-Friday 9:45-10:00
+Cuma 9:45-10:00
 TRACK
-Machine Learning
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ali Burak Can
+Meryem Uzun-Per
+Mehmet S. Aktaş
 TITLE
 Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
 AUTHOR

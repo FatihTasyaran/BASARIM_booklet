@@ -1,9 +1,12 @@
 DATE
-Wednesday 14:00-14:15
+Çarşamba 14:00-14:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ayas Kiser
+Yeliz Gürdal
 TITLE
 Theoretical Insight Into Hydrogen Evolution Mechanism of Pentadentate Molecular Catalyst Having Cobalt As Reaction Center
 AUTHOR

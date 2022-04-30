@@ -1,9 +1,12 @@
 DATE
-Thursday 14:15-14:30
+Perşembe 14:15-14:30
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ersin Yıldız
+Altuğ M. Başol
 TITLE
 GPU-accelerated floating random walk based transient heat conduction solver
 AUTHOR

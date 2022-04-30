@@ -1,9 +1,12 @@
 DATE
-Thursday 14:00-14:15
+Perşembe 14:00-14:15
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Amro A. Aljundi
+Kamer Kaya
 TITLE
 Accelerating Graph Embedding on a Single GPU Using Graph Reordering
 AUTHOR

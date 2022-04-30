@@ -1,9 +1,12 @@
 DATE
-Thursday 10:45-11:00
+Perşembe 10:45-11:00
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Uğurtan Demirtaş
+Nilay Sezer-Uzol
 TITLE
 Parallel Performance Comparison of GMRES Type Sparse Matrix Solvers for Inviscid Flux Schemes using Open-Source CFD Solver SU2
 AUTHOR

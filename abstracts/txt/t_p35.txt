@@ -1,14 +1,17 @@
 DATE
-Wednesday 11:00-11:15
+Çarşamba 11:00-11:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Aziz Mohammed
+Harun Koku
 TITLE
 Modeling of flow and mass transfer in virtual porous media
 AUTHOR
-Aziz Mohammed
-Harun Koku
+Aziz MOHAMMED
+Harun KOKU
 AFFSHORT
 Middle East Technical University
 AFF

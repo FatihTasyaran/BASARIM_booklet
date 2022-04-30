@@ -1,14 +1,17 @@
 DATE
-Thursday 15:45-16:00
+Perşembe 15:45-16:00
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Aykut Bozkurt
+Can Özturan
 TITLE
 SIMD Instructions for Ethereum Virtual Machine
 AUTHOR
-Aykut Bozkurt
-Can Özturan
+Aykut BOZKURT
+Can ÖZTURAN
 AFFSHORT
 25
 AFF

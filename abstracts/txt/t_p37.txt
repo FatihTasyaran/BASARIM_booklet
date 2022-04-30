@@ -1,9 +1,13 @@
 DATE
-Wednesday 14:45-15:00
+Çarşamba 14:45-15:00
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-Main Hall
+Oda: 202
+TOC_AUTHOR
+Merdan Batyrow
+İlknur Eruçar
+Hande Öztürk
 TITLE
 Size dependent change of mean square displacement in gold nanocrystals : A molecular dynamics simulation
 AUTHOR

@@ -1,9 +1,14 @@
 DATE
-Friday 10:30-10:45
+Cuma 10:30-10:45
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ali C. Koyuncuoğlu
+Çağrı Aydın
+Uğur. O. Ünal
+Barış Barlas
 TITLE
 Çekirdek Sayısının Hesaplamalı Gemi Direnci Analiz Performansına Etkileri
 AUTHOR

@@ -116,6 +116,18 @@ def fix_abstract(abs_pieces): #----------------------------------------
     
     return abstract
 
+def get_toc_authors(raw_toc_authors):
+
+    toc_authors_string = ''
+    
+    print('my data:', raw_toc_authors)
+    for i in range(len(raw_toc_authors)):
+        toc_authors_string += raw_toc_authors[i]
+        if(i != len(raw_toc_authors)-1):
+            toc_authors_string += ', '
+
+    
+    return toc_authors_string
     
 # MAIN FUNCTION ----------------------------------------------------
 
@@ -159,6 +171,7 @@ def txt2tex(file_name, verbose=False) :
     idx_date = data.index("DATE")
     idx_track = data.index("TRACK")
     idx_room = data.index("ROOM")
+    idx_toc_author = data.index("TOC_AUTHOR")
     idx_title = data.index("TITLE")
     idx_author = data.index("AUTHOR")
     idx_affshort = data.index("AFFSHORT")
@@ -178,6 +191,7 @@ def txt2tex(file_name, verbose=False) :
     date = data[idx_date+1]
     track = data[idx_track+1]
     room = data[idx_room+1]
+    toc_authors = get_toc_authors(data[idx_toc_author+1:idx_title])
     ###Added for basarim
     title = data[idx_title+1] # title 
     if title[-1] == '.':
@@ -360,6 +374,7 @@ def txt2tex(file_name, verbose=False) :
     {{{}}}
     {{{}}}
     {{{}}}
+    {{{}}}
     {{%
     {}}}
     {{%
@@ -369,7 +384,7 @@ def txt2tex(file_name, verbose=False) :
     {}
     {}
     \end{{abstract_basarim}}
-    """ .format(date, track, room, title, auths_final, tag, affs_final, abstract, refs_final)
+    """ .format(date, track, room, toc_authors, title, auths_final, tag, affs_final, abstract, refs_final)
 
     with open(tex_dir + file_type + 'b_' + file_id + '.tex', "w") as text_file:
         text_file.write(basarim)

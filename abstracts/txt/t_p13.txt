@@ -1,9 +1,13 @@
 DATE
-Thursday 15:30-15:45
+Perşembe 15:30-15:45
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Şükrü Furkan Taşdemir
+Cevat Volkan Karadağ
+Ali Fethi Okyar
 TITLE
 İzometrik Kasılmada Aponevroz Örtüsünün Rolü ve Şeklinin Eniyileme Yöntemiyle Tahminine Yönelik Hesaplamalar
 AUTHOR

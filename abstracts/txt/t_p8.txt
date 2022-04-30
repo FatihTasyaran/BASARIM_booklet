@@ -1,9 +1,12 @@
 DATE
-Friday 9:00-9:15
+Cuma 9:00-9:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+H. Tuğrul Erdoğan
+Adnan Özsoy
 TITLE
 Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
 AUTHOR

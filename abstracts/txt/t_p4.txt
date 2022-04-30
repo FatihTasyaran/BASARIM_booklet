@@ -1,9 +1,12 @@
 DATE
-Friday 10:45-11:00
+Cuma 10:45-11:00
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Uğur Erbaş
+Mehmet Barış Tabakçıoğlu
 TITLE
 Kullanılan Çekirdek Sayısının Kapsama Alanı Haritası Çıkarılma Performansına Etkisi
 AUTHOR

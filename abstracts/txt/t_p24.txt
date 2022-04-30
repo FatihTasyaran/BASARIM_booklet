@@ -1,9 +1,12 @@
 DATE
-Friday 11:45-12:00
+Cuma 11:45-12:00
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Gülçin Bolat
+Fatih E. Sevilgen
 TITLE
 Paralel İşlerin Çizelgelemesinde İşlemci Tahsisi için Hipersezgisel Yaklaşım
 AUTHOR

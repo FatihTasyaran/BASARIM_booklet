@@ -1,9 +1,13 @@
 DATE
-Friday 9:30-9:45
+Cuma 9:30-9:45
 TRACK
-Machine Learning
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Ömer Tayfuroğlu
+Abdulkadir Koçak
+Yunus Zorlu
 TITLE
 Development of a Generic Neural Network Potential for IR-MOF Series
 AUTHOR

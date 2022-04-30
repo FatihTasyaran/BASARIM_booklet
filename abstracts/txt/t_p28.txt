@@ -1,9 +1,12 @@
 DATE
-Wednesday 16:00-16:15
+Çarşamba 16:00-16:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+İsmail Güzel
+Atabey Kaygun
 TITLE
 Classification of Stochastic Processes with Topological Data Analysis
 AUTHOR

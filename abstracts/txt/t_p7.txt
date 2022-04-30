@@ -1,9 +1,13 @@
 DATE
-Thursday 11:00-11:15
+Perşembe 11:00-11:15
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Tamer Şener
+Burakhan Şüküroğlu
+Ayşe G. Güngör
 TITLE
 Kimyasal tepkimeli türbülanslı akışlar için hesaplamalı akışkanlar dinamiği çözücüsü, lestr3d
 AUTHOR

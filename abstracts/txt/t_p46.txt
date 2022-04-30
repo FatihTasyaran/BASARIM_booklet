@@ -1,9 +1,12 @@
 DATE
-Wednesday 16:15-16:30
+Çarşamba 16:15-16:30
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Furkan Atas
+Mehmet B. Akgün
 TITLE
 Dağıtık Ortamda Derece İlintileri Bazlı Gerçekçi Çizge Üretimi
 AUTHOR

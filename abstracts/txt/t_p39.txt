@@ -1,13 +1,15 @@
 DATE
-Wednesday 11:15-11:30
+Çarşamba 11:15-11:30
 TRACK
-Modeling and Simulation
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Hüseyin Bahtiyar
 TITLE
 Örgü Kuantum Renk Dinamiğinde $\Omega_{c c}$ Baryonunun Yarı-Leptonik Geçişinin İncelenmesi
 AUTHOR
-Hüseyin Bahtiyar
+Hüseyin BAHTİYAR
 AFFSHORT
 Mimar Sinan Güzel Sanatlar Üniversitesi
 AFF

@@ -1,9 +1,15 @@
 DATE
-Thursday 14:30-14:45
+Perşembe 14:30-14:45
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Najeeb Ahmad
+Bilge K. Görür
+Uğurtan Demirtaş
+Özgür Ateşoğlu
+Didem Unat
 TITLE
 Feasibility Study of Adding GPU Support to SU2 with ILU(0) Preconditioner
 AUTHOR

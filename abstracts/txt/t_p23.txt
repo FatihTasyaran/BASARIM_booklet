@@ -1,14 +1,18 @@
 DATE
-Thursday 13:30-13:45
+Perşembe 13:30-13:45
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Furkan Kurt
+Deniz Turgay Altılar
+Ayşe Yılmazer Metin
 TITLE
 Implementations of the Needleman-Wunsch Algorithm for GPU Architectures
 AUTHOR
 Furkan KURT
-Deniz Turgay ALTİLAR
+Deniz Turgay ALTILAR
 Ayşe Yılmazer METİN
 AFFSHORT
 Istanbul Technical University

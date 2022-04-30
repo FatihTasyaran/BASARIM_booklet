@@ -1,14 +1,17 @@
 DATE
-Thursday 13:45-14:00
+Perşembe 13:45-14:00
 TRACK
-High Performance Computing
+BASARIM2022
 ROOM
-G039
+Oda: 202
+TOC_AUTHOR
+Burak Topçu
+Işıl Öz
 TITLE
 Performance Evaluation of CUDA Optimizations for Convolution Operations
 AUTHOR
 Burak TOPÇU
-Işıl Öz
+Işıl ÖZ
 AFFSHORT
 İzmir Institute of Technology
 AFF
