@@ -28,7 +28,7 @@
 
 % VARIA
 \usepackage{color}
-\usepackage[table]{xcolor} % loads also »colortbl« %load before tikz if options
+\usepackage[table, xcdraw]{xcolor} % loads also »colortbl« %load before tikz if options
 \usepackage{scrhack} % fix koma script warning about addtolist
 \usepackage{blindtext}
 \usepackage{pdfpages} % for cover 
@@ -45,7 +45,9 @@
 %\tikzset{ar/.style={>=latex, ->}}
 %\renewcommand{\arraystretch}{1.2}
 %\usepackage[multidot]{grffile}
-% \usepackage{booktabs}
+\usepackage{booktabs}
+\usepackage[normalem]{ulem}                                                                        
+\useunder{\uline}{\ul}{}
 
 %BASARIM HEADER
 \usepackage{fancyhdr}
