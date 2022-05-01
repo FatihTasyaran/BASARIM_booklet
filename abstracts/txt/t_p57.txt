@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Amro A. Aljundi
 Kamer Kaya
+LANG
+ENG
 TITLE
 Accelerating Graph Embedding on a Single GPU Using Graph Reordering
 AUTHOR

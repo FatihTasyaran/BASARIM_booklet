@@ -16,6 +16,8 @@
 
 \documentclass[openany, parskip=full, 12pt, a4]{scrbook}
 
+\renewcaptionname{english}{\contentsname}{İçindekiler}
+
 \input{preamble}
 \input{preamble_booklet}
 	
@@ -50,15 +52,13 @@
 
 % ABOUT
 %---------------------------------------------------------------------
-\chapter{About}
+\chapter{Hakkında}
 
 \input{about}
 
 % TIMETABLE 
 %---------------------------------------------------------------------
-\chapter{Timetable}
-
-CT: Contributed Talk, IS: Invited Speaker, KL: Keynote Lecture, IT: Invited Talk.
+\chapter{Program}
 \input{timetable.tex}
 
 % TALKS 
@@ -162,6 +162,7 @@ CT: Contributed Talk, IS: Invited Speaker, KL: Keynote Lecture, IT: Invited Talk
 
 \newpage
 \nopagecolor
+\thispagestyle{empty}
 \includepdf[page={2}]{cover_pages}% our cover was produced with canva.com
 
 \end{document}

@@ -8,8 +8,10 @@ TOC_AUTHOR
 Merdan Batyrow
 İlknur Eruçar
 Hande Öztürk
+LANG
+ENG
 TITLE
-Size dependent change of mean square displacement in gold nanocrystals : A molecular dynamics simulation
+Size dependent change of mean square displacement in gold nanocrystals: \newline A molecular dynamics simulation
 AUTHOR
 Merdan BATYROW {1}
 İlknur ERUÇAR {2}

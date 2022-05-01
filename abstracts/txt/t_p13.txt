@@ -8,6 +8,8 @@ TOC_AUTHOR
 Şükrü Furkan Taşdemir
 Cevat Volkan Karadağ
 Ali Fethi Okyar
+LANG
+TUR
 TITLE
 İzometrik Kasılmada Aponevroz Örtüsünün Rolü ve Şeklinin Eniyileme Yöntemiyle Tahminine Yönelik Hesaplamalar
 AUTHOR

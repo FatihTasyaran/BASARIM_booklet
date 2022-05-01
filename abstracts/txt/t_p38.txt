@@ -8,6 +8,8 @@ TOC_AUTHOR
 Yunus E. Karasu
 Tuğba Zaman
 Ayşe. G. Güngör
+LANG
+ENG
 TITLE
 RANS and LES of a Turbulent Non-Premixed Flame Using OpenFOAM
 AUTHOR

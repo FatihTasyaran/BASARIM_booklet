@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Mustafa Barış Çamlı
 İsmail Arı
+LANG
+ENG
 TITLE
 Sensitivity Analysis of Federated Learning over Decentralized Data and Communication Rounds
 AUTHOR

@@ -172,6 +172,7 @@ def txt2tex(file_name, verbose=False) :
     idx_track = data.index("TRACK")
     idx_room = data.index("ROOM")
     idx_toc_author = data.index("TOC_AUTHOR")
+    idx_lang = data.index("LANG")
     idx_title = data.index("TITLE")
     idx_author = data.index("AUTHOR")
     idx_affshort = data.index("AFFSHORT")
@@ -191,7 +192,8 @@ def txt2tex(file_name, verbose=False) :
     date = data[idx_date+1]
     track = data[idx_track+1]
     room = data[idx_room+1]
-    toc_authors = get_toc_authors(data[idx_toc_author+1:idx_title])
+    toc_authors = get_toc_authors(data[idx_toc_author+1:idx_lang])
+    lang = data[idx_lang+1]
     ###Added for basarim
     title = data[idx_title+1] # title 
     if title[-1] == '.':
@@ -302,8 +304,12 @@ def txt2tex(file_name, verbose=False) :
     if n_refs == 0:
         refs_final = ''
     else:
-        refs_final = r"""
-        \textbf{{Keywords}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
+        if(lang == "TUR"):
+            refs_final = r"""
+            \textbf{{Anahtar Kelimeler}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
+        else:
+            refs_final = r"""
+            \textbf{{Index Terms}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
 
     if abs_type == ' ':
         talk_type = ''

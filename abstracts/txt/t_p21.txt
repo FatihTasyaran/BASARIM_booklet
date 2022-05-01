@@ -8,6 +8,8 @@ TOC_AUTHOR
 Alparslan Fişne
 Faruk Yavuz
 Adnan Özsoy
+LANG
+TUR
 TITLE
 Makine Öğrenmesi tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
 AUTHOR

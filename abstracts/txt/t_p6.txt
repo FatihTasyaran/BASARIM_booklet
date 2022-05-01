@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Burak Topçu
 Işıl Öz
+LANG
+ENG
 TITLE
 Performance Evaluation of CUDA Optimizations for Convolution Operations
 AUTHOR

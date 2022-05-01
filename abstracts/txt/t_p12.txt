@@ -8,6 +8,8 @@ TOC_AUTHOR
 Ömer Tayfuroğlu
 Abdulkadir Koçak
 Yunus Zorlu
+LANG
+ENG
 TITLE
 Development of a Generic Neural Network Potential for IR-MOF Series
 AUTHOR

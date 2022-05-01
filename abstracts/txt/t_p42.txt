@@ -8,6 +8,8 @@ TOC_AUTHOR
 Ertan Demiral
 Kıvanç Arslan
 Çağatay Şahin
+LANG
+TUR
 TITLE
 Aerodinamik Veritabanı Modellerinin Adaptif Deney Tasarım Yöntemi ile İyileştirilmesi ve Sürecin Hızlandırılması
 AUTHOR

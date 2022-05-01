@@ -9,6 +9,8 @@ Gamze Atalmış
 Serkan Toros
 Nebi Yelegen
 Yüksel Kaplan
+LANG
+ENG
 TITLE
 Effect of Copper-Coated Storage Materials on Reaction Kinetics
 AUTHOR

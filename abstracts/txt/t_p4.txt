@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Uğur Erbaş
 Mehmet Barış Tabakçıoğlu
+LANG
+TUR
 TITLE
 Kullanılan Çekirdek Sayısının Kapsama Alanı Haritası Çıkarılma Performansına Etkisi
 AUTHOR

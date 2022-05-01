@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Şener Özönder
 H. Kübra Küçükkartal
+LANG
+TUR
 TITLE
 Yapay zeka ile hızlandırılmış nano-malzeme keşfi
 AUTHOR

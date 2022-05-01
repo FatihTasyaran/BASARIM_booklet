@@ -8,6 +8,8 @@ TOC_AUTHOR
 Zuhal Altuntaş
 Sanem Arslan
 Betül Boz
+LANG
+ENG
 TITLE
 Approximate Execution of Critical Sections for Performance-Accuracy Tradeoff
 AUTHOR

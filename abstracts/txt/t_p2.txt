@@ -9,6 +9,8 @@ TOC_AUTHOR
 Fehmi Bardak
 Etem Köse
 Ahmet Ataç
+LANG
+ENG
 TITLE
 Static and Dynamic Modeling of N-Methyl-Indole \newline\noindent (N=1-6) in Water at the B3LYP/AMBER Level Using the COBRAMM Interface
 AUTHOR

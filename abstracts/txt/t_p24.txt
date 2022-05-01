@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Gülçin Bolat
 Fatih E. Sevilgen
+LANG
+TUR
 TITLE
 Paralel İşlerin Çizelgelemesinde İşlemci Tahsisi için Hipersezgisel Yaklaşım
 AUTHOR

@@ -5,6 +5,6 @@
         Middle East Technical University Dept. of Aerospace Engineering - Ankara, Turkey}
     Computational Fluid Dynamics (CFD) is used in aerospace engineering design and analysis for aerodynamic database generation, investigation of wing/control surface interactions and aerodynamic stability analysis. Due to the need for lower computational times in design, implicit solvers are generally used in many CFD flow solvers. Implicit solvers being stable allow to use higher CFL (Courant-Friedrich-Lewy) numbers, larger than unity, to increase convergence for both steady and dual time stepping unsteady CFD cases. This comes with a price of solving block type sparse matrices that must be constructed and solved at each iteration on a CFD run. Since the nonlinearity of coupled Navier Stokes equations are stemmed from inviscid flux terms as in Euler equations which has no diffusion term unlike Navier Stokes equations, the condition number of block matrices are affected by the inviscid flux scheme used as well as Mach number in the domain. In this study, the effects of the inviscid flux scheme over the parallel performance of GMRES (General Minimizing RESidual) solvers used in open source CFD code SU2 are investigated. 
     
-        \textbf{Keywords} \newline{}CFD, Parallel Computing, Sparse Matrix Solvers, SU2
+            \textbf{Index Terms} \newline{}CFD, Parallel Computing, Sparse Matrix Solvers, SU2
     \end{abstract_online}
     

@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Ayas Kiser
 Yeliz Gürdal
+LANG
+ENG
 TITLE
 Theoretical Insight Into Hydrogen Evolution Mechanism of Pentadentate Molecular Catalyst Having Cobalt As Reaction Center
 AUTHOR

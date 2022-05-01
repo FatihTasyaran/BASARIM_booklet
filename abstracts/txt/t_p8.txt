@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 H. Tuğrul Erdoğan
 Adnan Özsoy
+LANG
+TUR
 TITLE
 Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
 AUTHOR

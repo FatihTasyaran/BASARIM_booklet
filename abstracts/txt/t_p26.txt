@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Ersin Yıldız
 Altuğ M. Başol
+LANG
+ENG
 TITLE
 GPU-accelerated floating random walk based transient heat conduction solver
 AUTHOR

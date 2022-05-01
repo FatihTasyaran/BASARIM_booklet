@@ -1,0 +1,288 @@
+%======================================================
+% This file is part of
+% "AMCOS_booklet"
+% Version 1.1 (04/07/2019)
+% A LaTeX template for conference books of abstracts
+%
+% This template is available at:
+% https://github.com/maximelucas/AMCOS_booklet
+%
+% License: GNU General Public License v3.0
+%
+% Authors:
+% Maxime Lucas (ml.maximelucas@gmail.com)
+% Pau Clusella
+%=======================================================
+
+\documentclass[openany, parskip=full, 12pt, a4]{scrbook}
+
+\renewcaptionname{english}{\contentsname}{İçindekiler}
+
+\input{preamble}
+\input{preamble_booklet}
+	
+\begin{document}Adnan Özsoy	 	Hacettepe Üniversitesi
+Ahmet Ercan Topçu	 	American University of the Middle East
+Ahmet Erdem Sariyuce	 	University of Buffalo
+Ahmet Fatih Mustaçoğlu	 	TÜBİTAK BİLGEM
+Ahmet Sayar	 	Kocaeli Üniversitesi 
+Antoine Marion	 	Orta Doğu Teknik Üniversitesi
+Barış Aktemur	 	Intel GmbH
+Barış Ethem Süzek	 	Muğla Sıtkı Koçman Üniversitesi
+Bekir Bediz	 	Sabancı Üniversitesi
+Bora Uçar	 	ENS Lyon
+Bülent Çatay	 	Sabancı Üniversitesi
+Buse Yılmaz	 	İstinye Üniversitesi
+Can Ozturan	 	Boğaziçi Üniversitesi
+Canan Atilgan	 	Sabancı Üniversitesi
+Cem Sevik	 	Eskişehir Teknik Üniversitesi
+Cevat Şener	 	Orta Doğu Teknik Üniversitesi
+Cevdet Aykanat	 	Bilkent Üniversitesi
+Didem Unat	 	Koç Üniversitesi
+Emre Sururi Taşçı	 	Hacettepe Üniversitesi
+Enver Özdemir	 	İstanbul Teknik Üniversitesi
+Erol Şahin	 	Orta Doğu Teknik Üniversitesi
+Erol Yıldırım	 	Orta Doğu Teknik Üniversitesi
+Ferhat Özgür Çatak	 	Simula Research Laboratuary
+Galip Aydın	 	Fırat Üniversitesi
+Gürhan Gündüz	 	Muğla Sıtkı Koçman Üniversitesi
+Hande Toffoli	 	Orta Doğu Teknik Üniversitesi
+Harun Koku	 	Orta Doğu Teknik Üniversitesi
+Hasan Bulut	 	Ege Üniversitesi
+Hasan Dağ	 	Kadir Has Üniversitesi
+Hasan Kurban	 	Indiana Universitesi
+Hilal Arslan	 	Yıldırım Beyazıt Üniversitesi
+Hüsnü Yenigün	 	Sabancı Üniversitesi
+İlker Birbil	 	University of Amsterdam
+Ismail Arı	 	Özyeğin Üniversitesi
+Jose L. Abellan	 	Catholic University Saint Anthony Murcia
+Mehmet Dalkılıç	 	Indiana University
+Mehmet Koyutürk	 	Case Western Reserve University
+Mehmet Sıddık Aktaş	 	Yıldız Teknik Üniversitesi
+Metin Aktulga	 	Michigan State University
+Metin Muradoğlu	 	Koç Üniversitesi
+Mohammed Alser	 	ETH Zürich
+Mücahid Kutlu	 	TOBB ETÜ
+Murat Keçeli	 	Argonne National Laboratory
+Murat Manguoğlu	 	Orta Doğu Teknik Üniversitesi
+Nilay Sezer Uzol	 	Orta Doğu Teknik Üniversitesi
+Oğuz Gülseren	 	Bilkent Üniversitesi
+Onur Varol	 	Sabancı Üniversitesi
+Osman Barış Malcıoğlu	 	Orta Doğu Teknik Üniversitesi
+Osman Serdar Gedik	 	Ankara Yıldırım Beyazıt Üniversitesi
+Özcan Dülger	 	Orta Doğu Teknik Üniversitesi
+Özcan Öztürk	 	Bilkent Üniversitesi
+Pınar Duygulu Şahin	 	Hacettepe Üniversitesi
+Pınar Karagöz	 	Orta Doğu Teknik Üniversitesi
+Reha Oğuz Selvitopi	 	Lawrence Berkeley National Laboratory
+Sinan Kaan Yerli	 	Orta Doğu Teknik Üniversitesi
+Şükrü Torun	 	Ankara Yıldırım Beyazıt Üniversitesi
+Süleyman Eken	 	Kocaeli Üniversitesi
+Tan Nguyen	 	Lawrence Berkeley National Laboratory
+Tandaç Furkan Güçlü	 	Sabancı Üniversitesi
+Tuğba Önal Süzek	 	Muğla Sıtkı Koçman Üniversitesi
+Tuğrul Senger	 	İzmir Yüksek Teknoloji EnstitüsüAdnan Özsoy	 	Hacettepe Üniversitesi
+Ahmet Ercan Topçu	 	American University of the Middle East
+Ahmet Erdem Sariyuce	 	University of Buffalo
+Ahmet Fatih Mustaçoğlu	 	TÜBİTAK BİLGEM
+Ahmet Sayar	 	Kocaeli Üniversitesi 
+Antoine Marion	 	Orta Doğu Teknik Üniversitesi
+Barış Aktemur	 	Intel GmbH
+Barış Ethem Süzek	 	Muğla Sıtkı Koçman Üniversitesi
+Bekir Bediz	 	Sabancı Üniversitesi
+Bora Uçar	 	ENS Lyon
+Bülent Çatay	 	Sabancı Üniversitesi
+Buse Yılmaz	 	İstinye Üniversitesi
+Can Ozturan	 	Boğaziçi Üniversitesi
+Canan Atilgan	 	Sabancı Üniversitesi
+Cem Sevik	 	Eskişehir Teknik Üniversitesi
+Cevat Şener	 	Orta Doğu Teknik Üniversitesi
+Cevdet Aykanat	 	Bilkent Üniversitesi
+Didem Unat	 	Koç Üniversitesi
+Emre Sururi Taşçı	 	Hacettepe Üniversitesi
+Enver Özdemir	 	İstanbul Teknik Üniversitesi
+Erol Şahin	 	Orta Doğu Teknik Üniversitesi
+Erol Yıldırım	 	Orta Doğu Teknik Üniversitesi
+Ferhat Özgür Çatak	 	Simula Research Laboratuary
+Galip Aydın	 	Fırat Üniversitesi
+Gürhan Gündüz	 	Muğla Sıtkı Koçman Üniversitesi
+Hande Toffoli	 	Orta Doğu Teknik Üniversitesi
+Harun Koku	 	Orta Doğu Teknik Üniversitesi
+Hasan Bulut	 	Ege Üniversitesi
+Hasan Dağ	 	Kadir Has Üniversitesi
+Hasan Kurban	 	Indiana Universitesi
+Hilal Arslan	 	Yıldırım Beyazıt Üniversitesi
+Hüsnü Yenigün	 	Sabancı Üniversitesi
+İlker Birbil	 	University of Amsterdam
+Ismail Arı	 	Özyeğin Üniversitesi
+Jose L. Abellan	 	Catholic University Saint Anthony Murcia
+Mehmet Dalkılıç	 	Indiana University
+Mehmet Koyutürk	 	Case Western Reserve University
+Mehmet Sıddık Aktaş	 	Yıldız Teknik Üniversitesi
+Metin Aktulga	 	Michigan State University
+Metin Muradoğlu	 	Koç Üniversitesi
+Mohammed Alser	 	ETH Zürich
+Mücahid Kutlu	 	TOBB ETÜ
+Murat Keçeli	 	Argonne National Laboratory
+Murat Manguoğlu	 	Orta Doğu Teknik Üniversitesi
+Nilay Sezer Uzol	 	Orta Doğu Teknik Üniversitesi
+Oğuz Gülseren	 	Bilkent Üniversitesi
+Onur Varol	 	Sabancı Üniversitesi
+Osman Barış Malcıoğlu	 	Orta Doğu Teknik Üniversitesi
+Osman Serdar Gedik	 	Ankara Yıldırım Beyazıt Üniversitesi
+Özcan Dülger	 	Orta Doğu Teknik Üniversitesi
+Özcan Öztürk	 	Bilkent Üniversitesi
+Pınar Duygulu Şahin	 	Hacettepe Üniversitesi
+Pınar Karagöz	 	Orta Doğu Teknik Üniversitesi
+Reha Oğuz Selvitopi	 	Lawrence Berkeley National Laboratory
+Sinan Kaan Yerli	 	Orta Doğu Teknik Üniversitesi
+Şükrü Torun	 	Ankara Yıldırım Beyazıt Üniversitesi
+Süleyman Eken	 	Kocaeli Üniversitesi
+Tan Nguyen	 	Lawrence Berkeley National Laboratory
+Tandaç Furkan Güçlü	 	Sabancı Üniversitesi
+Tuğba Önal Süzek	 	Muğla Sıtkı Koçman Üniversitesi
+Tuğrul Senger	 	İzmir Yüksek Teknoloji Enstitüsü
+
+% COVER PAGE
+%--------------------------------------------------------------------
+\includepdf[page={1}]{cover_pages}% our cover was produced with canva.com
+	
+	
+% BLANK PAGE
+%---------------------------------------------------------------------
+\mbox{}
+\thispagestyle{empty}
+\vfill
+\begin{center}
+	\ifOnline
+	The electronic version of this booklet can be found at: \\
+	https://amcosconference.com/
+	\else
+	This is the short version of the booklet for print use. Full abstracts with all authors, references, and figures can be found in the electronic version at \url{https://amcosconference.com/}
+	\fi % end if
+	\\[20pt] % Please cite us by keeping the following line.
+	The open-source \LaTeX{} template, AMCOS\_booklet, used to generate this booklet is available at \url{https://github.com/maximelucas/AMCOS\_booklet}
+\end{center}
+
+\newpage
+
+% TABLE OF CONTENTS 
+%---------------------------------------------------------------------
+\tableofcontents
+
+% ABOUT
+%---------------------------------------------------------------------
+\chapter{Hakkında}
+
+\input{about}
+
+% TIMETABLE 
+%---------------------------------------------------------------------
+\chapter{Program}
+\input{timetable.tex}
+
+% TALKS 
+%---------------------------------------------------------------------
+%\chapter{List of Abstracts}
+
+% Definitions of custom environment used here can be found in preamble_booklet.tex file
+
+% The following input commands automatically select the right version 
+% (print or online) version of the abstract's .tex
+% \type is defined in preamble_booklet.tex and equals:
+% 'o' (online) or 'p' (print)
+
+
+\input{abstracts/tex/tb_p35}
+\input{abstracts/tex/tb_p39}
+\input{abstracts/tex/tb_p33}
+\input{abstracts/tex/tb_p62}
+\input{abstracts/tex/tb_p2}
+\input{abstracts/tex/tb_p54}
+\input{abstracts/tex/tb_p52}
+\input{abstracts/tex/tb_p19}
+\input{abstracts/tex/tb_p60}
+\input{abstracts/tex/tb_p37}
+\input{abstracts/tex/tb_p42}
+\input{abstracts/tex/tb_p28}
+\input{abstracts/tex/tb_p46}
+\input{abstracts/tex/tb_p31}
+\input{abstracts/tex/tb_p55}
+\input{abstracts/tex/tb_p7}
+\input{abstracts/tex/tb_p38}
+\input{abstracts/tex/tb_p63}
+\input{abstracts/tex/tb_p16}
+\input{abstracts/tex/tb_p23}
+\input{abstracts/tex/tb_p6}
+\input{abstracts/tex/tb_p57}
+\input{abstracts/tex/tb_p26}
+\input{abstracts/tex/tb_p43}
+\input{abstracts/tex/tb_p13}
+\input{abstracts/tex/tb_p25}
+\input{abstracts/tex/tb_p41}
+\input{abstracts/tex/tb_p8}
+\input{abstracts/tex/tb_p21}
+\input{abstracts/tex/tb_p12}
+\input{abstracts/tex/tb_p18}
+\input{abstracts/tex/tb_p14}
+\input{abstracts/tex/tb_p30}
+\input{abstracts/tex/tb_p4}
+\input{abstracts/tex/tb_p32}
+\input{abstracts/tex/tb_p47}
+\input{abstracts/tex/tb_p20}
+\input{abstracts/tex/tb_p24}
+
+
+%\input{abstracts/tex/t\type_schmidt}
+
+% POSTERS
+%------------------------------------------------------------------
+%\chapter{List of Posters} 
+
+%\vspace{-2.5em}
+
+%\section{Tuesday Session}
+
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+%\input{abstracts/tex/p\type_doe}
+
+
+% LIST OF PARTICIPANTS
+%------------------------------------------------------------------
+\chapter{List of Participants}
+ 
+\input{list_of_participants}
+ 
+% USEFUL INFO
+%------------------------------------------------------------------
+\chapter{Useful Information}
+
+\input{useful_info}
+
+% SPONSORS
+%------------------------------------------------------------------
+\chapter{Partner Institutions and Sponsors}
+
+\input{logos.tex}
+
+\newpage
+
+% BACK PAGE
+%-----------------------------------------------------------------
+
+\pagecolor{basarimgold}
+\thispagestyle{empty}
+\mbox{}
+
+\newpage
+\nopagecolor
+\thispagestyle{empty}
+\includepdf[page={2}]{cover_pages}% our cover was produced with canva.com
+
+\end{document}

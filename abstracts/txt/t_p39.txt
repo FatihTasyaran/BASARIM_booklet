@@ -6,6 +6,8 @@ ROOM
 Oda: 202
 TOC_AUTHOR
 Hüseyin Bahtiyar
+LANG
+TUR
 TITLE
 Örgü Kuantum Renk Dinamiğinde $\Omega_{c c}$ Baryonunun Yarı-Leptonik Geçişinin İncelenmesi
 AUTHOR

@@ -8,6 +8,8 @@ TOC_AUTHOR
 Ali Burak Can
 Meryem Uzun-Per
 Mehmet S. Aktaş
+LANG
+TUR
 TITLE
 Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
 AUTHOR

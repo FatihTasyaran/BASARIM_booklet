@@ -15,6 +15,8 @@ Mehmet Karaca
 Barış Yılmaz
 Christophe Allouis
 İskender Gökalp
+LANG
+TUR
 TITLE
 Kısmi Karışımlı bir Yanma Odası Tasarımında Girdap Etkilerinin İncelenmesi
 AUTHOR

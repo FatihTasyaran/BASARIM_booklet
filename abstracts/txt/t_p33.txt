@@ -6,6 +6,8 @@ ROOM
 Oda: 202
 TOC_AUTHOR
 Serpil Y. Kuzu
+LANG
+ENG
 TITLE
 Study of Dilepton Spectrum with Machine Learning Approach at the LHC
 AUTHOR

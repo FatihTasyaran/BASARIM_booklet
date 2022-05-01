@@ -8,6 +8,8 @@ TOC_AUTHOR
 İlkay T. Çakır
 Sajad Einy
 Sinan Kuday
+LANG
+ENG
 TITLE
 Preliminary Data Recognition on Collision Images at Large Hadron Collider with Machine Learning Techniques
 AUTHOR

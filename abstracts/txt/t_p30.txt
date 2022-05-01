@@ -9,6 +9,8 @@ Ali C. Koyuncuoğlu
 Çağrı Aydın
 Uğur. O. Ünal
 Barış Barlas
+LANG
+TUR
 TITLE
 Çekirdek Sayısının Hesaplamalı Gemi Direnci Analiz Performansına Etkileri
 AUTHOR

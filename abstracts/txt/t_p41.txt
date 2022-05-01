@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Buse Yılmaz
 Abdulkadir F. Yıldız
+LANG
+ENG
 TITLE
 A Graph Transformation Strategy for Optimizing SpTRSV
 AUTHOR

@@ -8,6 +8,8 @@ TOC_AUTHOR
 Tamer Şener
 Burakhan Şüküroğlu
 Ayşe G. Güngör
+LANG
+TUR
 TITLE
 Kimyasal tepkimeli türbülanslı akışlar için hesaplamalı akışkanlar dinamiği çözücüsü, lestr3d
 AUTHOR

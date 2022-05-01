@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 Furkan Atas
 Mehmet B. Akgün
+LANG
+TUR
 TITLE
 Dağıtık Ortamda Derece İlintileri Bazlı Gerçekçi Çizge Üretimi
 AUTHOR

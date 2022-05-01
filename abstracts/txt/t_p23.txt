@@ -8,6 +8,8 @@ TOC_AUTHOR
 Furkan Kurt
 Deniz Turgay Altılar
 Ayşe Yılmazer Metin
+LANG
+ENG
 TITLE
 Implementations of the Needleman-Wunsch Algorithm for GPU Architectures
 AUTHOR

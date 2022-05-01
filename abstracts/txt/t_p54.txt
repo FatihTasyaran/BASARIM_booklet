@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 İpek Güçlü
 Yeliz Gürdal
+LANG
+ENG
 TITLE
 Ab-initio MD Investigation of Co-based Planar Molecular Catalyst Immersed in Water: $\mathrm{H}_{2}$ Production Mechanism
 AUTHOR

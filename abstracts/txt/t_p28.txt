@@ -7,6 +7,8 @@ Oda: 202
 TOC_AUTHOR
 İsmail Güzel
 Atabey Kaygun
+LANG
+ENG
 TITLE
 Classification of Stochastic Processes with Topological Data Analysis
 AUTHOR

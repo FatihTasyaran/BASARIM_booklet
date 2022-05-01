@@ -9,6 +9,8 @@ Muhammad A. Sasongko
 Milind Chabbi
 Paul H. J. Kelly
 Didem Unat
+LANG
+ENG
 TITLE
 COMDETECTIVE $^{+}$: An Inter-Thread Communication Analyzer for AMD Multicores
 AUTHOR

@@ -8,6 +8,8 @@ TOC_AUTHOR
 Arash Karshenass
 Özgür U. Baran
 Onur Ata
+LANG
+ENG
 TITLE
 A Simplified Methodology For Rotor-Stator Interaction Problems With An Upwind Linearized Harmonic Solver
 AUTHOR
