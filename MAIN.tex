@@ -27,7 +27,8 @@
 %--------------------------------------------------------------------
 \includepdf[page={1}]{cover_pages}% our cover was produced with canva.com
 	
-	
+
+\setcounter{page}{1}
 % BLANK PAGE
 %---------------------------------------------------------------------
 \mbox{}
@@ -45,6 +46,18 @@
 \end{center}
 
 \newpage
+\pagecolor{basarimgold}
+\thispagestyle{empty}
+\mbox{}
+
+\newpage
+\pagecolor{basarimgold}
+\thispagestyle{empty}
+\mbox{}
+
+\newpage
+\nopagecolor
+\thispagestyle{empty}
 
 % TABLE OF CONTENTS 
 %---------------------------------------------------------------------
@@ -135,7 +148,7 @@
 
 % LIST OF PARTICIPANTS
 %------------------------------------------------------------------
-\chapter{List of Participants}
+\chapter{Yazar İndeksi}
  
 \input{list_of_participants}
  
@@ -162,8 +175,14 @@
 \mbox{}
 
 \newpage
-\nopagecolor
+
+\pagecolor{basarimgold}
 \thispagestyle{empty}
+\mbox{}
+
+\newpage
+\nopagecolor
+%\thispagestyle{empty}
 \includepdf[page={2}]{cover_pages}% our cover was produced with canva.com
 
 \end{document}
