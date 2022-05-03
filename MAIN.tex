@@ -25,8 +25,8 @@
 
 % COVER PAGE
 %--------------------------------------------------------------------
-\includepdf[page={1}]{cover_pages}% our cover was produced with canva.com
-	
+%\includepdf{First}% our cover was produced with canva.com
+\includepdf[fitpaper=false, pages=-]{First.pdf}
 	
 % BLANK PAGE
 %---------------------------------------------------------------------
@@ -164,6 +164,7 @@
 \newpage
 \nopagecolor
 \thispagestyle{empty}
-\includepdf[page={2}]{cover_pages}% our cover was produced with canva.com
+
+\includepdf[fitpaper=false, pages=-]{Last.pdf}
 
 \end{document}
