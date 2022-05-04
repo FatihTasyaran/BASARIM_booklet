@@ -26,9 +26,8 @@
 
 % COVER PAGE
 %--------------------------------------------------------------------
-%\includepdf{First}% our cover was produced with canva.com
 \includepdf[fitpaper=false, pages=-]{First.pdf}
-	
+\setcounter{page}{1}	
 % BLANK PAGE
 %---------------------------------------------------------------------
 \mbox{}
@@ -44,7 +43,19 @@
 	Bu kitapçık \url{https://github.com/maximelucas/AMCOS\_booklet} adresindeki açık kaynak \LaTeX{} şablonu kullanılarak hazırlanmıştır. 
 \end{center}
 
+%\newpage
+%\pagecolor{basarimgold}
+%\thispagestyle{empty}
+%\mbox{}
+
 \newpage
+\pagecolor{basarimgold}
+\thispagestyle{empty}
+\mbox{}
+
+\newpage
+\nopagecolor
+\thispagestyle{empty}
 
 % TABLE OF CONTENTS 
 %---------------------------------------------------------------------
@@ -135,7 +146,7 @@
 
 % LIST OF PARTICIPANTS
 %------------------------------------------------------------------
-\chapter{List of Participants}
+\chapter{Yazar İndeksi}
  
 \input{list_of_participants}
  
@@ -162,9 +173,16 @@
 \mbox{}
 
 \newpage
-\nopagecolor
+
+\pagecolor{basarimgold}
 \thispagestyle{empty}
 
+\mbox{}
+
+\newpage
+\nopagecolor
+%\thispagestyle{empty}
 \includepdf[fitpaper=false, pages=-]{Last.pdf}
+
 
 \end{document}
