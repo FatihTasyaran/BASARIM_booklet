@@ -1,9 +1,9 @@
 DATE
 Perşembe 10:30-10:45
 TRACK
-BASARIM2022
+
 ROOM
-Oda: 202
+Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
 TOC_AUTHOR
 Arash Karshenass
 Özgür U. Baran
