@@ -1,7 +1,7 @@
 DATE
 Cuma 9:30-9:45
 TRACK
-
+.
 ROOM
 Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
 TOC_AUTHOR

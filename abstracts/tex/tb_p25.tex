@@ -1,8 +1,8 @@
 
     \begin{abstract_basarim}
     {Perşembe 15:45-16:00}
-    {BASARIM2022}
-    {Oda: 202}
+    {.}
+    {Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)}
     {Aykut Bozkurt, Can Özturan}
     {SIMD Instructions for Ethereum Virtual Machine}
     {%
@@ -10,7 +10,7 @@
     {%
     }
     {%
-    }
+    25}
     Recently, Ethereum and its smart contracts have become very popular. Hence, there is an urgent need for higher transaction throughput on Ethereum blockchains. Ethereum Virtual Machine (EVM) is a Turing-complete computer which executes Ethereum bytecode-encoded instructions for smart contracts. Every instruction uses 256-bit wide stack items as input and output operands. They pop the required inputs from the stack and push the result onto it after an execution. A gas consumption cost is assigned to them relative to the complexity of the instruction as it prevents halting problem. Consumed gas multiplied by gas price is charged as transaction fee by the transaction sender to mitigate Denial of Service (DoS) attacks can be avoided. The current supported instruction set has some weaknesses. Firstly, transactions containing large sized vector operations require excessive amount of gas cost. Secondly, transaction throughput is limited because of no parallelism in execution. Therefore, we extend the EVM instruction set by Single Instruction Multiple Data (SIMD) operations in order to benefit from data-level parallelism based on Ethereum improvement proposal EIP-616. We show how EVM can benefit from SIMD instructions by lowering gas consumption and increasing transaction throughput. 
     
             \textbf{Index Terms} \newline{}Computer Society, IEEE, ethereum, EVM

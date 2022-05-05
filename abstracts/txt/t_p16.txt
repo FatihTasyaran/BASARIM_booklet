@@ -1,7 +1,7 @@
 DATE
 Perşembe 11:45-12:00
 TRACK
-
+.
 ROOM
 Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
 TOC_AUTHOR
