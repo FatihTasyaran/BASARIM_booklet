@@ -10,7 +10,7 @@ Adnan Özsoy
 LANG
 TUR
 TITLE
-Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
+Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
 AUTHOR
 H. Tugrul ERDOĞAN
 Adnan ÖZSOY

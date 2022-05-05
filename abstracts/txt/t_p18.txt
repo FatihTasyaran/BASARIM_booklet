@@ -11,7 +11,7 @@ Mehmet S. Aktaş
 LANG
 TUR
 TITLE
-Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
+Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
 AUTHOR
 Ali Burak CAN {1}
 Meryem UZUN-PER {1,2}

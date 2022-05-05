@@ -11,7 +11,7 @@ Adnan Özsoy
 LANG
 TUR
 TITLE
-Makine Öğrenmesi tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
+Makine Öğrenmesi Tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
 AUTHOR
 Alparslan FİŞNE {1}
 Faruk YAVUZ {1}

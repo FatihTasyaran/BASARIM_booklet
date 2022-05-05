@@ -18,7 +18,7 @@ Christophe Allouis
 LANG
 TUR
 TITLE
-Kısmi Karışımlı bir Yanma Odası Tasarımında Girdap Etkilerinin İncelenmesi
+Kısmi Karışımlı bir Yanma Odası Tasarımında Girdap Etkilerinin İncelenmesi
 AUTHOR
 Yunus Emre KARASU {1}
 Tuğba ZAMAN {1}
