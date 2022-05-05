@@ -177,7 +177,7 @@
 
 \AddEverypageHook{%
 \ifthenelse{%
-	\isodd{\thepage} \AND  \thepage>1 \AND \thepage<65% if odd page but not front page
+	\isodd{\thepage} \AND  \thepage>1 \AND \thepage<63% if odd page but not front page
 	}{%
 	\backgroundsetup{
 		color=\secondarycolor,
@@ -190,7 +190,7 @@
 	}
 %
 \ifthenelse{% 
-	\NOT \isodd{\thepage} \AND \NOT \thepage=65% if even page AND NOT THE LAST PAGE
+	\NOT \isodd{\thepage} \AND \NOT \thepage=63% if even page AND NOT THE LAST PAGE
 	}{%
 	\backgroundsetup{
 		color=\secondarycolor,
