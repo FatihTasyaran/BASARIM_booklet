@@ -3,7 +3,7 @@ DATE
 TRACK
 .
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202 (fiziksel) - 111, 112 (çevrimiçi)
 TOC_AUTHOR
 Serpil Y. Kuzu
 LANG
