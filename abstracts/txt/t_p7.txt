@@ -15,7 +15,7 @@ Kimyasal tepkimeli türbülanslı akışlar için hesaplamalı akışkanlar dina
 AUTHOR
 Tamer ŞENER
 Burakhan ŞÜKÜROĞLU
-Ayse G. GUNGOR
+Ayşe G. GÜNGÖR
 AFFSHORT
 İstanbul Teknik Üniversitesi
 AFF
