@@ -1,9 +1,9 @@
 DATE
 Perşembe 14:00-14:15
 TRACK
-BASARIM2022
+
 ROOM
-Oda: 202
+Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
 TOC_AUTHOR
 Amro A. Aljundi
 Kamer Kaya

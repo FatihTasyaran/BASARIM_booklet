@@ -1,9 +1,9 @@
 DATE
 Çarşamba 14:30-14:45
 TRACK
-BASARIM2022
+
 ROOM
-Oda: 202
+Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
 TOC_AUTHOR
 Şener Özönder
 H. Kübra Küçükkartal
