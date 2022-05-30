@@ -1,9 +1,9 @@
 DATE
 Perşembe 14:30-14:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Najeeb Ahmad
 Bilge K. Görür
@@ -12,6 +12,8 @@ Uğurtan Demirtaş
 Didem Unat
 LANG
 ENG
+LINK
+Please contact the authors to access this manuscript
 TITLE
 Feasibility Study of Adding GPU Support to SU2 with ILU(0) Preconditioner
 AUTHOR

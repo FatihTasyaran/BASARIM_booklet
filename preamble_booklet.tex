@@ -59,7 +59,7 @@
 %----------------------------------------
 % basarim abstract environment
 %----------------------------------------
-\newenvironment{abstract_basarim}[8] %{date}{track}{room}{toc_author}{title}{author}{affiliation}{type}
+\newenvironment{abstract_basarim}[8] %{date}{track}{room}{link}{toc_author}{title}{author}{affiliation}{type}
 {%\filbreak %avoid page break
 
         \clearpage\pagestyle{fancy}
@@ -70,14 +70,16 @@
         \cfoot{BAŞARIM 2022\\Sabancı Üniversitesi, Altunizade Dijital Kampüs, Istanbul}
         \rfoot{\thepage}
         
-	{\renewcommand{\baselinestretch}{3.5}  \Large \bfseries #5 \renewcommand{\baselinestretch}{1} }
-	
-	{\bfseries \itshape #6} \newline\newline {\noindent #7}
+      	{\renewcommand{\baselinestretch}{3.5}  \Large \bfseries #5 \renewcommand{\baselinestretch}{1} }
+        	
+       	{\bfseries \itshape #6} \newline\newline {\noindent #7} 
        	\textcolor{mygray}{#8}
+
+        
 
         \addcontentsline{toc}{section}{{\bfseries #5}\newline{\itshape #4}}
         
-        
+               
 }
 {\clearpage\pagestyle{plain}}
 

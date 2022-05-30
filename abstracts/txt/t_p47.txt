@@ -1,9 +1,9 @@
 DATE
 Cuma 11:15-11:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Muhammad A. Sasongko
 Milind Chabbi
@@ -11,6 +11,8 @@ Paul H. J. Kelly
 Didem Unat
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1pJcsXDiNB8L19W3ldZKr6VvdV5SFgjIs/view?usp=drivesdk
 TITLE
 COMDETECTIVE $^{+}$: An Inter-Thread Communication Analyzer for AMD Multicores
 AUTHOR

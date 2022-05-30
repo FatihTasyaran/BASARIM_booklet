@@ -1,14 +1,16 @@
 DATE
 Perşembe 10:45-11:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Uğurtan Demirtaş
 Nilay Sezer-Uzol
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1waCWD0mtXwaAEbE6SZlU0HiIQY5vt1f1/view?usp=drivesdk
 TITLE
 Parallel Performance Comparison of GMRES Type Sparse Matrix Solvers for Inviscid Flux Schemes using Open-Source CFD Solver SU2
 AUTHOR

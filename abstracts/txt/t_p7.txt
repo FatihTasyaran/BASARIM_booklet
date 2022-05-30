@@ -1,21 +1,23 @@
 DATE
 Perşembe 11:00-11:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Tamer Şener
 Burakhan Şüküroğlu
 Ayşe G. Güngör
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1ECkHHQJGgPhx9nL9mPXK6FDANBnI65UC/view?usp=drivesdk
 TITLE
 Kimyasal tepkimeli türbülanslı akışlar için hesaplamalı akışkanlar dinamiği çözücüsü, lestr3d
 AUTHOR
 Tamer ŞENER
 Burakhan ŞÜKÜROĞLU
-Ayşe G. GÜNGÖR
+Ayse G. GUNGOR
 AFFSHORT
 İstanbul Teknik Üniversitesi
 AFF

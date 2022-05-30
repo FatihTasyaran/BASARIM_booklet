@@ -1,8 +1,8 @@
 
     \begin{abstract_basarim}
     {Cuma 11:00-11:15}
-    {.}
-    {Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)}
+    {BASARIM2022}
+    {Oda: 202}
     {Sanem Arslan, Osman Ünsal}
     {Efficient Thread-to-Core Mapping for Application-level Redundant Multithreading}
     {%
@@ -11,8 +11,9 @@
     }
     {%
     $^1$ Marmara University Computer Engineering Department - İstanbul, Turkey\newline{}$^2$ Barcelona Supercomputing Center - Barcelona, Spain}
-    Redundant multithreading (RMT) is an effective thread-level replication method to improve the reliability requirements of applications. Although it significantly improves the robustness of applications, it comes with additional performance overhead since the redundant threads might share the same core resources. In our previous study, we presented an efficient software-level RMT approach, where we execute the most critical code regions with three threads to correct errors. In this study, we focus on further improving the performance of our software-level RMT method by presenting a set of different thread-to-core mapping alternatives. We provide different static mapping methods, which require preliminary information about the applications, such as execution time or cache usage behaviors, and a dynamic mapping method, which maps threads to cores dynamically at runtime without requiring any prior information. Experimental results show that the dynamic mapping method outperforms all static methods in addition to our baseline model, where the thread-to-core mappings are left to the operating system, by 8\%, 7\%, and 20\% based on average speedup, harmonic speedup, and mean slowdown metrics. 
+    Redundant multithreading (RMT) is an effective thread-level replication method to improve the reliability requirements of applications. Although it significantly improves the robustness of applications, it comes with additional performance overhead since the redundant threads might share the same core resources. In our previous study [1], we presented an efficient software-level RMT approach, where we execute the most critical code regions with three threads to correct errors. In this study, we focus on further improving the performance of our software-level RMT method by presenting a set of different thread-to-core mapping alternatives. We provide different static mapping methods, which require preliminary information about the applications, such as execution time or cache usage behaviors, and a dynamic mapping method, which maps threads to cores dynamically at runtime without requiring any prior information. Experimental results show that the dynamic mapping method outperforms all static methods in addition to our baseline model, where the thread-to-core mappings are left to the operating system, by 8\%, 7\%, and 20\% based on average speedup, harmonic speedup, and mean slowdown metrics. 
     
-            \textbf{Index Terms} \newline{}Redundant multithreading, dynamic mapping
+            \textbf{References} \newline{}[1] S. Arslan and O. Unsal, "Efficient selective replication of critical code regions for sdc mitigation leveraging redundant multithreading," \textit{The Journal of Supercomputing, vol. 77}, p. $14130-14160,2021$.
+     \newline\newline\noindent \href{https://drive.google.com/file/d/1L2YXk26Ol0Ns1RC6ZMFP_ZEIi01lXOz9/view?usp=drivesdk}{\bfseries Online Access}
     \end{abstract_basarim}
     

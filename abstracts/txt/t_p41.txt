@@ -1,14 +1,16 @@
 DATE
 Perşembe 16:00-16:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Buse Yılmaz
 Abdulkadir F. Yıldız
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1HMZ0HP05iNL0czsleGZIRxPvC3phoseg/view?usp=drivesdk
 TITLE
 A Graph Transformation Strategy for Optimizing SpTRSV
 AUTHOR

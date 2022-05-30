@@ -1,8 +1,8 @@
 
     \begin{abstract_basarim}
     {Perşembe 14:30-14:45}
-    {.}
-    {Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)}
+    {BASARIM2022}
+    {Oda: 202}
     {Najeeb Ahmad, Bilge K. Görür, Uğurtan Demirtaş, Özgür Ateşoğlu, Didem Unat}
     {Feasibility Study of Adding GPU Support to SU2 with ILU(0) Preconditioner}
     {%
@@ -14,5 +14,6 @@
     The open source computational analysis tool SU2 employs various linear solvers and preconditioners, all of which are currently written for commodity CPUs. Incomplete LU (ILU) is one such important preconditioner available in SU2, often used in linear solvers such as GMRES. In this work, we implement GPU-based ILU(0) preconditioner in SU2 using NVIDIA cuSPARSE library, evaluate its execution time on an NVIDIA Tesla V100 GPU for two input mesh sizes and compare its performance with state-of-the-art multicore AMD Epyc and Intel Cascade Lake CPUs. The implementation shows $22 \%$ (8M mesh size) and $30 \%$ (13M mesh size) speedups against AMD Epyc while slowdowns of $26 \%(8 \mathrm{M}$ mesh) and $11 \%(13 \mathrm{M}$ mesh) against Intel Cascade Lake CPU. We observe that while the cuSPARSE triangular solve (compute phase) takes lesser time for both mesh sizes than it takes on the CPU, the matrix update and cuSPARSE ILU(0) factorization (build phase) overshadows this gain on Intel Cascade Lake and results in a slowdown. In conclusion, it is important to have efficient implementations of both the build and compute phases for a significant overall performance gain on the GPU versus CPU for ILU(0) preconditioning in SU2. 
     
             \textbf{Index Terms} \newline{}SU2, ILU Preconditioner, CUDA, cuSparse
+    \newline\newline\noindent \bfseries{Please contact the authors to access this manuscript}
     \end{abstract_basarim}
     

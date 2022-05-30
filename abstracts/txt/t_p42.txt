@@ -1,15 +1,17 @@
 DATE
 Çarşamba 15:45-16:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Ertan Demiral
 Kıvanç Arslan
 Çağatay Şahin
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1pF5rZu-6ELVj9ZsweeLNf2EtRDMu29VK/view?usp=sharing
 TITLE
 Aerodinamik Veritabanı Modellerinin Adaptif Deney Tasarım Yöntemi ile İyileştirilmesi ve Sürecin Hızlandırılması
 AUTHOR

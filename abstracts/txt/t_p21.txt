@@ -1,17 +1,19 @@
 DATE
 Cuma 9:15-9:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Alparslan Fişne
 Faruk Yavuz
 Adnan Özsoy
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1oPFwlb9nyBeN2SLv5RJ7jUYcpjFTPqsG/view?usp=drivesdk
 TITLE
-Makine Öğrenmesi Tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
+Makine Öğrenmesi tabanlı Gerçek Zamanlı Hedef Tespiti için Güç Verimli Paralel Hesaplama
 AUTHOR
 Alparslan FİŞNE {1}
 Faruk YAVUZ {1}

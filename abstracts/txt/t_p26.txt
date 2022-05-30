@@ -1,14 +1,16 @@
 DATE
 Perşembe 14:15-14:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Ersin Yıldız
 Altuğ M. Başol
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1PyNAuX02KaqUL11Btvpg0fHXIWiNTpiH/view?usp=drivesdk
 TITLE
 GPU-accelerated floating random walk based transient heat conduction solver
 AUTHOR

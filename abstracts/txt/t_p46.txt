@@ -1,14 +1,16 @@
 DATE
 Çarşamba 16:15-16:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Furkan Atas
 Mehmet B. Akgün
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1IqKS_UXObPg5KbBPI44uvgCJgLN1w660/view?usp=drivesdk
 TITLE
 Dağıtık Ortamda Derece İlintileri Bazlı Gerçekçi Çizge Üretimi
 AUTHOR

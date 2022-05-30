@@ -1,4 +1,6 @@
-"""
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+"""we
 This file is part of
 "AMCOS_booklet"
 Version 1.1 (04/07/2019)
@@ -167,12 +169,14 @@ def txt2tex(file_name, verbose=False) :
                 #print(head)
         data = [i[0] for i in reader]
 
+    print('data:', data)
     # EXTRACT INDICES
     idx_date = data.index("DATE")
     idx_track = data.index("TRACK")
     idx_room = data.index("ROOM")
     idx_toc_author = data.index("TOC_AUTHOR")
     idx_lang = data.index("LANG")
+    idx_link = data.index("LINK")
     idx_title = data.index("TITLE")
     idx_author = data.index("AUTHOR")
     idx_affshort = data.index("AFFSHORT")
@@ -194,6 +198,7 @@ def txt2tex(file_name, verbose=False) :
     room = data[idx_room+1]
     toc_authors = get_toc_authors(data[idx_toc_author+1:idx_lang])
     lang = data[idx_lang+1]
+    link = data[idx_link+1]
     ###Added for basarim
     title = data[idx_title+1] # title 
     if title[-1] == '.':
@@ -296,6 +301,8 @@ def txt2tex(file_name, verbose=False) :
         if i < n_auth-1 :
             auths_final += ', '
 
+            
+            
     if n_aff == 1 :
         affs_final = affs[0]
     else :
@@ -307,9 +314,29 @@ def txt2tex(file_name, verbose=False) :
         if(lang == "TUR"):
             refs_final = r"""
             \textbf{{Anahtar Kelimeler}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
+            
         else:
             refs_final = r"""
             \textbf{{Index Terms}} \newline{{}}{}""" .format(r'\newline{}'.join(refs))
+
+    ##LINKS
+    link_final = ''
+    if(lang == "TUR"):
+        
+        if(link.find("contact") != -1):
+            link_final = "\\newline\\newline\\noindent \\bfseries{Bu bildiriye erişim için yazarlarla iletişime geçniz}"
+
+        else:
+            link_final = r""" \newline\newline\noindent \href{}""".format('{' + link +'}{\\bfseries Çevrimici Erişim}')
+
+    else:
+
+        if(link.find("contact") != -1):
+            link_final = "\\newline\\newline\\noindent \\bfseries{Please contact the authors to access this manuscript}"
+
+        else:
+            link_final = r""" \newline\newline\noindent \href{}""".format('{' + link +'}{\\bfseries Online Access}')
+        
 
     if abs_type == ' ':
         talk_type = ''
@@ -374,6 +401,8 @@ def txt2tex(file_name, verbose=False) :
         
         print auths_final
 
+
+    
     basarim = r"""
     \begin{{abstract_basarim}}
     {{{}}}
@@ -389,8 +418,9 @@ def txt2tex(file_name, verbose=False) :
     {}}}
     {}
     {}
+    {}
     \end{{abstract_basarim}}
-    """ .format(date, track, room, toc_authors, title, auths_final, tag, affs_final, abstract, refs_final)
+    """ .format(date, track, room, toc_authors, title, auths_final, tag, affs_final, abstract, refs_final,link_final)
 
     with open(tex_dir + file_type + 'b_' + file_id + '.tex', "w") as text_file:
         text_file.write(basarim)

@@ -1,14 +1,16 @@
 DATE
 Çarşamba 11:00-11:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Aziz Mohammed
 Harun Koku
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1FB0bPDXs4onqUyOKgBo9Y1AHFu_YKMrf/view?usp=drivesdk
 TITLE
 Modeling of flow and mass transfer in virtual porous media
 AUTHOR

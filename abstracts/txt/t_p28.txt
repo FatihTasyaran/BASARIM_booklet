@@ -1,14 +1,16 @@
 DATE
 Çarşamba 16:00-16:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 İsmail Güzel
 Atabey Kaygun
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1SSqRZa7J0AUgMIr_J-DhLta3yRiMYeZG/view?usp=drivesdk
 TITLE
 Classification of Stochastic Processes with Topological Data Analysis
 AUTHOR

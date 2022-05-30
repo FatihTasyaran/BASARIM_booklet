@@ -1,13 +1,15 @@
 DATE
 Çarşamba 11:30-11:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Serpil Y. Kuzu
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1VTPtlXJdSI560csxqGXvoE4-9Lptr3pA/view?usp=drivesdk
 TITLE
 Study of Dilepton Spectrum with Machine Learning Approach at the LHC
 AUTHOR

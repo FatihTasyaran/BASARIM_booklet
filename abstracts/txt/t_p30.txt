@@ -1,9 +1,9 @@
 DATE
 Cuma 10:30-10:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Ali C. Koyuncuoğlu
 Çağrı Aydın
@@ -11,6 +11,8 @@ Uğur. O. Ünal
 Barış Barlas
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1heWAE-2BIuNy_8mBeiCFXe4CtrbaWFkH/view?usp=drivesdk
 TITLE
 Çekirdek Sayısının Hesaplamalı Gemi Direnci Analiz Performansına Etkileri
 AUTHOR

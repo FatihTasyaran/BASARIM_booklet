@@ -1,14 +1,16 @@
 DATE
 Cuma 10:45-11:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Uğur Erbaş
 Mehmet Barış Tabakçıoğlu
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1FUUrT7ODU41jBmEDcWtKwz4KelsswDGY/view?usp=drivesdk
 TITLE
 Kullanılan Çekirdek Sayısının Kapsama Alanı Haritası Çıkarılma Performansına Etkisi
 AUTHOR

@@ -1,17 +1,19 @@
 DATE
 Cuma 9:45-10:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Ali Burak Can
 Meryem Uzun-Per
 Mehmet S. Aktaş
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/15N3cDtaLREa8d38d7DkDc978Qf9Gd-fd/view?usp=drivesdk
 TITLE
-Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
+Tek Boyutlu, Sıralı, Büyük Ölçekli Veri Dizileri için Sıralı Örüntü Madenciliği Yaklaşımı
 AUTHOR
 Ali Burak CAN {1}
 Meryem UZUN-PER {1,2}
