@@ -1,15 +1,17 @@
 DATE
 Perşembe 11:15-11:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Yunus E. Karasu
 Tuğba Zaman
 Ayşe. G. Güngör
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1KEsXY5po380TnyMqCUVs7iwCu_9y7Beh/view?usp=sharing
 TITLE
 RANS and LES of a Turbulent Non-Premixed Flame Using OpenFOAM
 AUTHOR

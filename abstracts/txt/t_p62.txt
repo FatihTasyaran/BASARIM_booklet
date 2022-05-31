@@ -1,15 +1,17 @@
 DATE
 Çarşamba 11:45-12:00
 TRACK
-.
+BASARIM 2022
 ROOM
-Oda: 202 (fiziksel) - 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 İlkay T. Çakır
 Sajad Einy
 Sinan Kuday
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/14flKburhp0hlb0DXA2fsXt4KPQl-p0rI/view?usp=drivesdk
 TITLE
 Preliminary Data Recognition on Collision Images at Large Hadron Collider with Machine Learning Techniques
 AUTHOR

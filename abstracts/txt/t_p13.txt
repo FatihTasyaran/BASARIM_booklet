@@ -1,15 +1,17 @@
 DATE
 Perşembe 15:30-15:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Şükrü Furkan Taşdemir
 Cevat Volkan Karadağ
 Ali Fethi Okyar
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1lTp_PZwjoVxHZTKNfq1FA31uPwH7xrcq/view?usp=drivesdk
 TITLE
 İzometrik Kasılmada Aponevroz Örtüsünün Rolü ve Şeklinin Eniyileme Yöntemiyle Tahminine Yönelik Hesaplamalar
 AUTHOR

@@ -1,15 +1,17 @@
 DATE
 Perşembe 10:30-10:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Arash Karshenass
 Özgür U. Baran
 Onur Ata
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1-EnT5MmzhSr_BGdovjyG6qJsGFGORFBA/view?usp=drivesdk
 TITLE
 A Simplified Methodology For Rotor-Stator Interaction Problems With An Upwind Linearized Harmonic Solver
 AUTHOR

@@ -1,17 +1,19 @@
 DATE
 Çarşamba 14:45-15:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Merdan Batyrow
 İlknur Eruçar
 Hande Öztürk
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1QxujenEGqb3_bqsCYzqP4KKPv7BGBV6d/view?usp=drivesdk
 TITLE
-Size dependent change of mean square displacement in gold nanocrystals: A molecular dynamics simulation
+Size dependent change of mean square displacement in gold nanocrystals: \newline A molecular dynamics simulation
 AUTHOR
 Merdan BATYROW {1}
 İlknur ERUÇAR {2}

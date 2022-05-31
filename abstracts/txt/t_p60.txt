@@ -1,14 +1,16 @@
 DATE
 Çarşamba 14:30-14:45
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Şener Özönder
 H. Kübra Küçükkartal
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/1GF296mBNrqbRUvTzV5Qk8CS8uNqUE2bZ/view?usp=drivesdk
 TITLE
 Yapay zeka ile hızlandırılmış nano-malzeme keşfi
 AUTHOR

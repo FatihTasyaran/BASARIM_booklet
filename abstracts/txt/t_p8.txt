@@ -1,16 +1,18 @@
 DATE
 Cuma 9:00-9:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 H. Tuğrul Erdoğan
 Adnan Özsoy
 LANG
 TUR
+LINK
+https://drive.google.com/file/d/16QuGSE00RtJch8gNm9T0chTn0ngW98mT/view?usp=drivesdk
 TITLE
-Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
+Pekiştirmeli öğrenme ile 5G baz istasyonunun otomize olarak yapılandırılması
 AUTHOR
 H. Tugrul ERDOĞAN
 Adnan ÖZSOY

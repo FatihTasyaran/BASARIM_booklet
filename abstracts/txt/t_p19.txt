@@ -1,9 +1,9 @@
 DATE
 Çarşamba 14:15-14:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Gamze Atalmış
 Serkan Toros
@@ -11,6 +11,8 @@ Nebi Yelegen
 Yüksel Kaplan
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1PZiPStwp-8dYWlP1FF3Pwcvxqa3uXY1x/view?usp=drivesdk
 TITLE
 Effect of Copper-Coated Storage Materials on Reaction Kinetics
 AUTHOR

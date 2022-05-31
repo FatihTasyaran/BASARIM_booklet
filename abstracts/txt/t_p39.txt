@@ -1,15 +1,17 @@
 DATE
 Çarşamba 11:15-11:30
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Hüseyin Bahtiyar
 LANG
 TUR
 TITLE
 Örgü Kuantum Renk Dinamiğinde $\Omega_{c c}$ Baryonunun Yarı-Leptonik Geçişinin İncelenmesi
+LINK
+https://drive.google.com/file/d/1KmMrXC9UrNVhbc6MjvkIP_cQzeTWIYNI/view?usp=drivesdk
 AUTHOR
 Hüseyin BAHTİYAR
 AFFSHORT

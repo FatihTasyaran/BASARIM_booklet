@@ -1,14 +1,16 @@
 DATE
 Cuma 10:00-10:15
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Mustafa Barış Çamlı
 İsmail Arı
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1BAjBhdrIpJDFjwmGLf1MDHhema0RfbJX/view?usp=drivesdk
 TITLE
 Sensitivity Analysis of Federated Learning over Decentralized Data and Communication Rounds
 AUTHOR

@@ -1,14 +1,16 @@
 DATE
 Çarşamba 13:45-14:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 İpek Güçlü
 Yeliz Gürdal
 LANG
 ENG
+LINK
+Please contact the authors to access this manuscript
 TITLE
 Ab-initio MD Investigation of Co-based Planar Molecular Catalyst Immersed in Water: $\mathrm{H}_{2}$ Production Mechanism
 AUTHOR

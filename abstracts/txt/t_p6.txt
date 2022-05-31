@@ -1,14 +1,16 @@
 DATE
 Perşembe 13:45-14:00
 TRACK
-.
+BASARIM2022
 ROOM
-Oda: 202 (fiziksel) - 104, 105, 111, 112 (çevrimiçi)
+Oda: 202
 TOC_AUTHOR
 Burak Topçu
 Işıl Öz
 LANG
 ENG
+LINK
+https://drive.google.com/file/d/1hNA0jqJk-ppfkb5Qq93PcOqi_KqydVFc/view?usp=drivesdk
 TITLE
 Performance Evaluation of CUDA Optimizations for Convolution Operations
 AUTHOR
