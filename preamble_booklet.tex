@@ -73,7 +73,7 @@
 	{\renewcommand{\baselinestretch}{3.5}  \Large \bfseries #5 \renewcommand{\baselinestretch}{1} }
 	
 	{\bfseries \itshape #6} \newline\newline {\noindent #7}
-       	\textcolor{mygray}{#8}
+       	\textcolor{black}{#8}
 
         \addcontentsline{toc}{section}{{\bfseries #5}\newline{\itshape #4}}
         
@@ -177,7 +177,7 @@
 
 \AddEverypageHook{%
 \ifthenelse{%
-	\isodd{\thepage} \AND  \thepage>1 \AND \thepage<63% if odd page but not front page
+	\isodd{\thepage} \AND  \thepage>1 \AND \thepage<61% if odd page but not front page
 	}{%
 	\backgroundsetup{
 		color=\secondarycolor,
@@ -190,7 +190,7 @@
 	}
 %
 \ifthenelse{% 
-	\NOT \isodd{\thepage} \AND \NOT \thepage=63% if even page AND NOT THE LAST PAGE
+	\NOT \isodd{\thepage} \AND \NOT \thepage=61% if even page AND NOT THE LAST PAGE
 	}{%
 	\backgroundsetup{
 		color=\secondarycolor,
